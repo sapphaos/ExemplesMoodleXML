@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<quiz>
+    <question type="category">
+        <text>$course$/XXXX</text>
+    </question>
+    <question type="multichoice|truefalse|shortanswer|matching|cloze|essay|numerical|description">
+        <name>
+            <text>Nom de la question</text>
+        </name>
+        <questiontext format="html">
+            <text>Quelle est la réponse à la question?</text>
+        </questiontext>
+    </question>
+</quiz>

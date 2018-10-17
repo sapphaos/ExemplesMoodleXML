@@ -1,0 +1,11 @@
+<question type="truefalse">
+<question type="truefalse">
+ <answer fraction="100">
+    <text>non</text>
+    <feedback><text>Correct!</text></feedback>
+ </answer>
+ <answer fraction="0">
+    <text>oui</text>
+    <feedback><text>Ooops!</text></feedback>
+ </answer>
+</question>

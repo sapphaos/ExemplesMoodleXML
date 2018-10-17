@@ -8,7 +8,7 @@
             <text>Nom de la question</text>
         </name>
         <questiontext format="html">
-            <text>Quelle est la réponse à la question?</text>
+            <text>Quelle est la réponse à la question</text>
         </questiontext>
     </question>
 </quiz>
